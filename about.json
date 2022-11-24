@@ -1,0 +1,42 @@
+[
+    {
+        "ttName": "#name",
+        "pName" : ["김예슬", "KIM YE SEUL"]
+    },
+
+    {
+        "ttPosi" : "#position",
+        "pPosi" : "FRONTEND DEVELOPER"
+    },
+
+    {
+        "ttBirth" : "#birth",
+        "dayBirth" : "1993.12.28"
+    },
+
+    {
+        "ttPhone" : "#phone",
+        "numPhone" : "010.9909.3771"
+    },
+
+    {
+        "ttMail" : "#e-mail",
+        "adMail" : "dime4110@naver.com"
+    },
+
+    {
+        "ttAdress" : "#adress",
+        "pAdress" : "경기 광주시 거주"
+    },
+
+    {
+        "ttCer" : "#certificate",
+        "pCer" : [
+                "2023.00 정보처리기능사",
+                "2023.00 웹기능사",
+                "2023.03 NCS과정 수료",
+                "2021.05 운전면허 1종 보통",
+                "2018.02 충남대학교 행정학과 졸업"
+                ]
+    }
+]

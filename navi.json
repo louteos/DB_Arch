@@ -1,0 +1,32 @@
+[
+    {
+        "ttAbout" : "ABOUT",
+        "linkAbout" : "#about",
+        "targetAbout" : "",
+        "classAbout" : "scrollPage"
+    },
+    {
+        "ttProcess" : "PROCESS",
+        "linkProcess" : "#process",
+        "targetProcess" : "",
+        "classProcess" : "scrollPage"
+    },
+    {
+        "ttProject" : "PROJECT",
+        "linkProject" : "#project",
+        "targetProject" : "",
+        "classProject" : "scrollPage"
+    },
+    {
+        "ttPre" : "PRE-INTERVIEW",
+        "linkPre" : "#preInterview",
+        "targetPre" : "",
+        "classPre" : "scrollPage"
+    },
+    {
+        "ttGithub" : "Gighub",
+        "linkGithub" : "https://louteos.github.com/",
+        "targetGithub" : "_blank",
+        "classGithub" : "btn"
+    }
+]
